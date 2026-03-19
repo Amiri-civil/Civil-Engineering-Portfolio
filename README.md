@@ -17,12 +17,8 @@ I am a Civil Engineering graduate from Amirkabir University of Technology with p
 
 ### Structural Design
 
-* Concrete Building Design (AutoCAD / ETABS)
-* Steel Structure Design (AutoCAD / ETABS)
-
-### Water Engineering
-
-* Water Distribution System (EPANET)
+* Concrete Building Design (AutoCAD / ETABS / SAFE)
+* Steel Structure Design (AutoCAD / ETABS / SAFE)
 
 ### Transportation Engineering
 
