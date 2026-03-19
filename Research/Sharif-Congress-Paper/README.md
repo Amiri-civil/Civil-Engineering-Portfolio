@@ -15,6 +15,14 @@ This paper evaluates water, environmental, and sustainable development-related c
 * Language: Persian
 * Type: Conference Paper
 
+  ## 📌 Research Scope
+
+This study focuses on three key areas:
+
+* Water Engineering
+* Environmental Engineering
+* Sustainable Development
+
 ## 📁 Contents
 
 * Full paper (PDF)
