@@ -8,6 +8,7 @@ This project involves the analysis and design of a reinforced concrete building 
 
 * ETABS
 * SAFE
+* AutoCAD
 
 ## 📊 Description
 
