@@ -17,5 +17,9 @@ The study analyzes the presence and importance of water, environment and sustain
 ## 📁 Contents
 
 * Full thesis (PDF)
-* Related materials (if available)
+  
+## 📁 Additional Materials
+
+* Curriculum charts and supporting documents related to selected Asian universities are included in the "Supporting-Documents" folder.
+
 
