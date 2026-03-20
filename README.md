@@ -1,8 +1,6 @@
 # Civil Engineering Portfolio – Amiri Abdul Atiq
 
-Civil engineering projects and research, including studies in water resources, environmental engineering, sustainable development, and intelligent transportation systems, as well as practical projects in reinforced concrete and steel building design and complete road geometric design.
-
-I am a Civil Engineering graduate from Amirkabir University of Technology with project experience in structural design, water engineering, and transportation systems, and research experience in environmental engineering, water resources, sustainable development, and intelligent transportation systems, including thesis work and published papers.
+I am a Civil Engineering graduate from Amirkabir University of Technology with experience in engineering projects in structural design and transportation systems, as well as research in water resources, environmental engineering, sustainable development, and intelligent transportation systems, supported by a bachelor’s thesis and published papers.
 
 
 ## 📌 Fields of Interest
