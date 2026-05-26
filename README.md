@@ -1,6 +1,6 @@
 # Civil Engineering Portfolio – Amiri Abdul Atiq
 
-I am a Civil Engineering graduate from Amirkabir University of Technology with experience in engineering projects in structural design and transportation systems, as well as research in water resources, environmental engineering, sustainable development, and intelligent transportation systems, supported by a bachelor’s thesis and published papers.
+I am a Civil Engineering graduate from Amirkabir University of Technology (Tehran Polytechnic) with experience in engineering projects in structural design and transportation systems, as well as research in water resources, environmental engineering, sustainable development, and intelligent transportation systems, supported by a bachelor’s thesis and published papers.
 
 
 ## 📌 Fields of Interest
