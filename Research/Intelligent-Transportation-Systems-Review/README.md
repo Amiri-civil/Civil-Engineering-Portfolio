@@ -71,7 +71,7 @@ The analysis covers:
 ## 📁 Contents
 
 - Full research article (PDF)
-- Supplementary Materials (Zip)
+- Supplementary Materials (ZIP)
 
 ## 📚 Citation
 
