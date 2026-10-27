@@ -8,8 +8,8 @@ This study investigates the role of Intelligent Transportation Systems (ITS) in 
 
 * Journal: Civil and Project Journal (CPJ)
 * Type: Research Article
-* Year: 2022
-* DOI: https://doi.org/10.22034/cpj.2023.04.03.1133
+* Publish Date : 22 September 2024
+* DOI: https://www.cpjournals.com/article_196121_en.html
 * Indexed in Google Scholar
 
 ## 👨‍🔬 Authors
@@ -20,7 +20,7 @@ This study investigates the role of Intelligent Transportation Systems (ITS) in 
 
 ## 🎓 Affiliation
 
-Amirkabir University of Technology, Tehran, Iran
+Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran
 
 ## 📊 Research Focus
 
