@@ -12,7 +12,7 @@ This thesis evaluates water, environmental, and sustainable development-related 
 
 ## 📊 Description
 
-The study analyzes the presence and importance of sustainability-related subjects in civil engineering education and compares different academic curricula among selected Asian universities.
+The study analyzes the presence and importance of water, environmental and sustainability-related subjects in civil engineering education and compares different academic curricula among selected Asian universities. (Amiri Kabir University of Technology (Iran), Qatar University (Qatar), University of Malaya (Malaysia), Chiang Mai University (Thailand), Indian Institute Of Technology Delhi (India).
 
 ## 📁 Contents
 
