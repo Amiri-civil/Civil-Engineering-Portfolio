@@ -3,14 +3,6 @@
 I am a Civil Engineering graduate from Amirkabir University of Technology (Tehran Polytechnic) with experience in engineering projects in structural design and transportation systems, as well as research in water resources, environmental engineering, sustainable development, and intelligent transportation systems, supported by a bachelor’s thesis and published papers.
 
 
-## 📌 Fields of Interest
-
-* Structural Engineering
-* Water Engineering
-* Transportation Engineering
-* Environmental Engineering and Sustainable Development
-
-
 ## 🏗️ Projects
 
 ### Structural Design
@@ -32,15 +24,15 @@ Detailed reports are provided in Persian, while key information is presented in 
   ## 📚 Research
 
 * **Bachelor’s Thesis:**
-  Evaluation of water, environment, and sustainable development courses in civil engineering undergraduate curricula of selected Asian universities
+  Evaluation of Water, Environmental, and Sustainable Development Courses in Undergraduate Civil Engineering Programs at Selected Asian Universities.
   *(Full thesis in Persian)*
 
 * **Conference Paper (14th Civil Engineering Congress – Sharif University):**
-  Evaluation of water, environment, and sustainable development courses in civil engineering curricula of Iranian universities (old and new)
+  Evaluation of Water, Environmental, and Sustainable Development Courses in the Undergraduate Civil Engineering Curricula of Iranian Universities: A Comparison of the Old and New Curricula.
   *(Full paper in Persian, available online with Persian title on Civilica)*
 
 * **Published Review Paper (Indexed in Google Scholar):**
-  Investigating the role of Intelligent Transportation Systems (ITS) in road transportation and its implementation in Iran (until 1400)
-  *(First page including abstract in English; full paper in Persian)*
+  Investigating the role of intelligent transportation systems (ITS) with approach of road transportation and the implementation of the ITS system in Iran until the end of 1400.
+  *(First page including abstract in English; full paper in Persian, available online on Google Scholar and civilica)*
 
 
