@@ -24,7 +24,7 @@ Detailed reports are provided in Persian, while key information is presented in 
   ## 📚 Research
 
 * **Bachelor’s Thesis:**
-  Evaluation of Water, Environmental, and Sustainable Development Courses in Undergraduate Civil Engineering Programs at Selected Asian Universities.
+  Evaluation of Courses Related to Water, Environment, and Sustainable Development in Undergraduate Civil Engineering Programs at Selected Asian Universities.
   *(Full thesis in Persian)*
 
 * **Conference Paper (14th Civil Engineering Congress – Sharif University):**
