@@ -102,8 +102,7 @@ This research examined the coverage of water, environmental, and sustainable dev
 The study was developed from my undergraduate research on the role of water and environmental education in Civil Engineering programmes and the importance of integrating sustainability-related knowledge into engineering education.
 
 **Research Focus:**
-- Evaluation of water-related courses in undergraduate Civil Engineering curricula
-- Assessment of environmental engineering and sustainability-related subjects
+- Evaluation and assessment of water, environmental engineering and sustainable development-related courses in undergraduate Civil Engineering curricula
 - Comparison of the old and revised Civil Engineering curricula in Iranian universities
 - Examination of the integration of sustainable development concepts into engineering education
 - Identification of curriculum areas relevant to emerging water and environmental challenges
