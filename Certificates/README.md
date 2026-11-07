@@ -4,7 +4,7 @@ This section presents selected online courses, English language proficiency, and
 
 ------------------------------------------------------------------------------------------------------
 
-## 1. Online Courses & Professional Development
+## 1. Online Courses & Professional Development_Coursera
 
 The following courses were completed through Coursera to strengthen my academic knowledge and broaden my understanding of water resources management, environmental engineering, and sustainable development.
 
