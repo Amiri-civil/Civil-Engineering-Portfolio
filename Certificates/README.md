@@ -70,7 +70,7 @@ This course focused on sustainable approaches to urban water management and the 
 **Test Date:** 28 February 2026  
 **Overall Band Score:** 6.0  
 **CEFR Level:** B2  
-**Certificate:** (IELTS-Academic-British-Council.pdf)
+**Certificate:** (Academic IELTS Result (Amiri Abdul Atiq).pfd)
 
 **Test Results:**
 
