@@ -5,12 +5,17 @@ I am a Civil Engineering graduate from Amirkabir University of Technology (Tehra
 
 ## 🏗️ Projects
 
-### Structural Design
+### Water and Environmental Engineering Projects:
+
+* Engineering Hydrology Project (Hec-HMS / Excel)
+* Water Distribution Network Design (EPANET / Excel)
+
+### Structural Design Projects:
 
 * Concrete Building Design (AutoCAD / ETABS / SAFE)
 * Steel Structure Design (AutoCAD / ETABS / SAFE)
 
-### Transportation Engineering
+### Transportation Engineering Project:
 
 * Road Geometric Design (AutoCAD / Civil 3D)
 
