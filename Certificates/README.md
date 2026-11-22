@@ -12,52 +12,55 @@ The following courses were completed through Coursera to strengthen my academic 
 
 **Institution:** University of Geneva, Switzerland  
 **Platform:** Coursera  
-**Certificate:** (Water-Resources-Management-and-Policy.pdf)
+**Certificate:** (Water Resources Management and Policy.pdf)
 
 This course explored the institutional, regulatory, and policy dimensions of water resources management, with particular attention to the challenges of managing water as a shared resource.
 
-**Key Topics Covered:**
-- Water governance and the management of shared water resources
-- Water uses, resource allocation, and competing demands
-- Institutional and regulatory frameworks for water management
-- Integrated Water Resources Management (IWRM)
-- The Water–Energy–Food–Ecosystem Nexus
-- Water-related conflicts, cooperation, and transboundary water management
+**This course includes five modules, as outlined below:**
+Module 1. From Resource Definition to the Ideals of Community Management
+Water as a shared resource, competing demands, different management approaches (government, industry, and communities), and Elinor Ostrom’s principles of community-based management.
+Module 2. The Rules of the Resource, their Uses and their Circumvention
+Property rights, public policies, the Institutional Resource Regime (IRR), and the implementation of water regulations, with Swiss and European case studies.
+Module 3. From Integrated Water Resource Management to the Water-Food-Energy and Ecosystem Nexus
+Integrated Water Resources Management (IWRM) and the interconnections between water, food, energy, and ecosystems, including case studies from the Mekong and Columbia River Basins.
+Module 4. The Integrated Watershed Management (IWM)
+The benefits and institutional and practical limitations of integrated watershed management, drawing on experiences from Switzerland, Europe, and the Rhine River Basin.
+Module 5. Water as a Source of Conflict and Cooperation
+Transboundary water relations, hydro-hegemony, international water law, and cooperation mechanisms, with examples from the Nile and Senegal River Basins and the Mekong River Commission.
 
 ### 1.2. Global Environmental Management
 
 **Institution:** Technical University of Denmark (DTU), Denmark  
 **Platform:** Coursera  
-**Certificate:** (Global-Environmental-Management.pdf)
+**Certificate:** (Global Environmental Management.pdf)
 
 This course examined global environmental challenges and the management approaches and technologies used to support sustainable development. It covered environmental management across urban and rural settings, including water systems, waste management, and the protection of natural resources.
 
-**Key Topics Covered:**
-- Global environmental trends, urbanisation, and climate change
-- Environmental management systems and approaches
-- Water supply, wastewater, and stormwater management
-- Solid waste management and circular economy principles
-- Environmental technologies for the built environment
-- Groundwater protection and sustainable soil management
-- Nature-based solutions for wastewater treatment
-- Integrated and regional water resources management
+**This course includes five modules, as outlined below:**
+WEEK/MODULE 1: Global Trends
+Sustainable development, demographic changes, urbanisation, climate change, and their impacts on the environment and living conditions.
+WEEK/MODULE 2: Environmental Management
+Different environmental management systems and approaches, and how national culture, history, and geographical conditions influence their implementation.
+WEEK/MODULE 3: Utility Management
+Environmental management in essential utilities, including water supply, wastewater systems, solid waste management, and the regulation of other pollution sources.
+WEEK/MODULE 4: Technologies for the Built Environment
+Environmental technologies for stormwater management, urban water supply, and solid waste handling, including technology selection and practical applications, with a particular focus on Greenland.
+WEEK/MODULE 5: Other Technologies
+Sustainable soil management, groundwater exploration and protection, nature-based solutions for wastewater treatment, and Integrated Water Resources Management.
 
 ### 1.3. Sustainable Urban Water Systems
 
 **Institution:** Politecnico di Milano, Italy  
 **Platform:** Coursera  
-**Certificate:** (Sustainable-Urban-Water-Systems.pdf)
+**Certificate:** (Sustainable Urban Water Systems.pdf)
 
 This course focused on sustainable approaches to urban water management and the development of more resilient, water-sensitive cities. Particular attention was given to stormwater control, nature-based solutions, and strategies for improving urban water supply.
 
-**Key Topics Covered:**
-- The urban water cycle and the effects of human activities
-- Climate change impacts on rainfall and urban runoff
-- Water-sensitive cities and urban resilience
-- Nature-based solutions for urban water management, including water squares, blue roofs, infiltration systems, bioretention areas, permeable pavements, green roofs, and vegetated walls
-- Sustainable urban water supply strategies
-- Water conservation, loss reduction, and waste minimisation
-- Alternative water resources, rainwater harvesting, and reuse
+**This course includes four modules, as outlined below:**
+MODULE 1: Introduction to the course
+MODULE 2: The Water Cycle in Urban Areas: Natural Processes and Human Activities 
+MODULE 3: Water Sensitive Cities: Increasing Resilience to Evolutionary Risks
+MODULE 4: Sustainable Water Supply Strategies
 
 ------------------------------------------------------------------------------------------------------
 
@@ -104,10 +107,10 @@ The study was developed from my undergraduate research on the role of water and 
 **Research Focus:**
 - Evaluation and assessment of water, environmental engineering and sustainable development-related courses in undergraduate Civil Engineering curricula
 - Comparison of the old and revised Civil Engineering curricula in Iranian universities
-- Examination of the integration of sustainable development concepts into engineering education
+- Examination of the integration of water, environmental engineering and  sustainable development concepts into engineering education
 - Identification of curriculum areas relevant to emerging water and environmental challenges
 
-**Academic Contribution:** Co-authored research paper accepted and presented at the 14th International Congress on Civil Engineering, hosted by Sharif University of Technology.
+**Academic Contribution:** Co-authored research paper accepted, resented and published at the 14th International Congress on Civil Engineering, hosted by Sharif University of Technology.
 
 --------------------------------------------------------------------------------------------------------
 
@@ -115,6 +118,6 @@ The study was developed from my undergraduate research on the role of water and 
 
 Together, these courses, language qualification, and research activities reflect my continued interest in the relationship between Civil Engineering, water resources, environmental management, and sustainable development.
 
-My academic and research experiences have strengthened my understanding of water-related challenges from complementary perspectives, including water governance and policy, environmental protection, sustainable urban infrastructure, and the integration of sustainability into engineering education.
+My academic and research experiences have strengthened my understanding of water-related challenges from complementary perspectives, including water governance and policy, environmental protection, sustainable urban infrastructure, and the integration of these concepts into engineering education.
 
-I aim to build on this foundation through further graduate studies and research in water resources and environmental engineering.
+I aim to build on this foundation through further graduate studies and research in water resources, environmental engineering and sustainable developement.
