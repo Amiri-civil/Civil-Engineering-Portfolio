@@ -19,12 +19,16 @@ This course explored the institutional, regulatory, and policy dimensions of wat
 **This course includes five modules, as outlined below:**
 Module 1. From Resource Definition to the Ideals of Community Management
 Water as a shared resource, competing demands, different management approaches (government, industry, and communities), and Elinor Ostrom’s principles of community-based management.
+
 Module 2. The Rules of the Resource, their Uses and their Circumvention
 Property rights, public policies, the Institutional Resource Regime (IRR), and the implementation of water regulations, with Swiss and European case studies.
+
 Module 3. From Integrated Water Resource Management to the Water-Food-Energy and Ecosystem Nexus
 Integrated Water Resources Management (IWRM) and the interconnections between water, food, energy, and ecosystems, including case studies from the Mekong and Columbia River Basins.
+
 Module 4. The Integrated Watershed Management (IWM)
 The benefits and institutional and practical limitations of integrated watershed management, drawing on experiences from Switzerland, Europe, and the Rhine River Basin.
+
 Module 5. Water as a Source of Conflict and Cooperation
 Transboundary water relations, hydro-hegemony, international water law, and cooperation mechanisms, with examples from the Nile and Senegal River Basins and the Mekong River Commission.
 
