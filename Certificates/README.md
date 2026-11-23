@@ -1,6 +1,6 @@
 # Important Certificates
 
-This section presents selected online courses, English language proficiency, and academic research contributions that complement my background in Civil Engineering and reflect my continued interest in water resources, environmental engineering, and sustainable development.
+This section presents selected online courses, English language proficiency, and academic research contributions certificates that complement my background in Civil Engineering and reflect my continued interest in water resources, environmental engineering, and sustainable development.
 
 ------------------------------------------------------------------------------------------------------
 
