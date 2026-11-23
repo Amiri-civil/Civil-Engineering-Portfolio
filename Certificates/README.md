@@ -6,7 +6,7 @@ This section presents selected online courses, English language proficiency, and
 
 ## 1_Certificate - Online Courses in Water, Environmental Engineering & Sustainable Development - Coursera
 
-The following courses were completed through Coursera to strengthen my academic knowledge and broaden my understanding of water resources management, environmental engineering, and sustainable development.
+The following courses were completed through Coursera to strengthen my academic knowledge and broaden my understanding of water resources management.
 
 ### 1.1. Water Resources Management and Policy
 
