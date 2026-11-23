@@ -1,28 +1,42 @@
-Road Geometric Design (Collector–Distributor Road)
+# Geometric Design of a Collector-Distributor Road
 
-📌 Overview
-This project involves the complete geometric design of a collector–distributor road with a total length of approximately 12 km.
+## Project Overview
+This project involves the geometric design of an approximately 12 km collector-distributor road, completed in two phases: manual design and software-based design.
 
-⚙️ Software
-AutoCAD
-Civil 3D
-Microsoft Excel
+## Project Execution
+Both phases of the project, including the manual design and software-based design, were carried out individually. However, the final project report was prepared collaboratively as a group in a single PDF document.
 
-📊 Description
-The project includes comprehensive roadway design, covering horizontal and vertical alignments and detailed engineering drawings based on standard road design principles.
+## Project Phases
 
-🛣️ Design Components
-Longitudinal profile
-Cross-sections
-Mass haul (Brockenbrough) diagram
-Horizontal alignment
-Road signage plan
-Road marking plan
+**Phase 1: Manual Design**
+- Manual geometric design calculations and procedures
+- Preparation of preliminary design materials and related documentation
 
-📁 Contents
-CAD drawings (plans, profiles, sections)
-Design calculations
-Project report (Persian PDF)
+**Phase 2: Software-Based Design**
+- Development of the road design using engineering software
+- Preparation of design drawings, profiles, and other project outputs
 
-📎 Notes
-The report is written in Persian; however, the engineering design process and outputs are clearly demonstrated through technical drawings.
+## Design Components
+- Horizontal and vertical alignment
+- Longitudinal profile
+- Road cross-sections
+- Mass-haul diagram
+- Road signage plan
+- Road marking plan
+
+## Software Used
+- Autodesk Civil 3D
+- AutoCAD
+- Microsoft Excel
+
+## Project Documentation
+All available project materials are organized and categorized in the relevant folders, including:
+
+- Files and calculations from both manual and software-based design phases
+- The final group project report in PDF format
+- Software-generated drawings and outputs
+- Supporting documents and related project materials
+- English translations of documents where available
+
+The project folder is structured to provide easy access to the design process, supporting materials, and final outputs.
+
