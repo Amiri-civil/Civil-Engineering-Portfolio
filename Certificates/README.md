@@ -17,6 +17,7 @@ The following courses were completed through Coursera to strengthen my academic 
 This course explored the institutional, regulatory, and policy dimensions of water resources management, with particular attention to the challenges of managing water as a shared resource.
 
 **This course includes five modules, as outlined below:**
+
 -Module 1. From Resource Definition to the Ideals of Community Management
 Water as a shared resource, competing demands, different management approaches (government, industry, and communities), and Elinor Ostrom’s principles of community-based management.
 
@@ -32,6 +33,8 @@ The benefits and institutional and practical limitations of integrated watershed
 -Module 5. Water as a Source of Conflict and Cooperation
 Transboundary water relations, hydro-hegemony, international water law, and cooperation mechanisms, with examples from the Nile and Senegal River Basins and the Mekong River Commission.
 
+
+
 ### 1.2. Global Environmental Management
 
 **Institution:** Technical University of Denmark (DTU), Denmark  
@@ -41,16 +44,23 @@ Transboundary water relations, hydro-hegemony, international water law, and coop
 This course examined global environmental challenges and the management approaches and technologies used to support sustainable development. It covered environmental management across urban and rural settings, including water systems, waste management, and the protection of natural resources.
 
 **This course includes five modules, as outlined below:**
+
 -WEEK/MODULE 1: Global Trends
 Sustainable development, demographic changes, urbanisation, climate change, and their impacts on the environment and living conditions.
+
 -WEEK/MODULE 2: Environmental Management
 Different environmental management systems and approaches, and how national culture, history, and geographical conditions influence their implementation.
+
 -WEEK/MODULE 3: Utility Management
 Environmental management in essential utilities, including water supply, wastewater systems, solid waste management, and the regulation of other pollution sources.
+
 -WEEK/MODULE 4: Technologies for the Built Environment
 Environmental technologies for stormwater management, urban water supply, and solid waste handling, including technology selection and practical applications, with a particular focus on Greenland.
+
 -WEEK/MODULE 5: Other Technologies
 Sustainable soil management, groundwater exploration and protection, nature-based solutions for wastewater treatment, and Integrated Water Resources Management.
+
+
 
 ### 1.3. Sustainable Urban Water Systems
 
@@ -61,12 +71,18 @@ Sustainable soil management, groundwater exploration and protection, nature-base
 This course focused on sustainable approaches to urban water management and the development of more resilient, water-sensitive cities. Particular attention was given to stormwater control, nature-based solutions, and strategies for improving urban water supply.
 
 **This course includes four modules, as outlined below:**
+
 -MODULE 1: Introduction to the course
+
 -MODULE 2: The Water Cycle in Urban Areas: Natural Processes and Human Activities 
+
 -MODULE 3: Water Sensitive Cities: Increasing Resilience to Evolutionary Risks
+
 -MODULE 4: Sustainable Water Supply Strategies
 
+
 ------------------------------------------------------------------------------------------------------
+
 
 ## 2_Certificate - Academic IELTS Result
 
