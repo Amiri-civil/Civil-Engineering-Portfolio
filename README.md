@@ -7,17 +7,17 @@ I am a Civil Engineering graduate from Amirkabir University of Technology (Tehra
 
 ### Water and Environmental Engineering Projects:
 
-* Engineering Hydrology Project (Hec-HMS / Excel)
-* Water Distribution Network Design (EPANET / Excel)
+* Rainfall-Runoff Modeling and Sensitivity Analysis Project - Engineering Hydrology Subject (HEC-HMS / Microsoft Excel)
+* Water Distribution Network Design Project - Water and Wastewater Engineering Subject (EPANET / Civil 3D / AutoCAD / Microsoft Excel)
 
 ### Structural Design Projects:
 
-* Concrete Building Design (AutoCAD / ETABS / SAFE)
-* Steel Structure Design (AutoCAD / ETABS / SAFE)
+* Concrete Building Design and Structural Analysis Project (AutoCAD / ETABS / SAFE / Microsoft Excel)
+* Steel Structure Design and Structural Analysis Project (AutoCAD / ETABS / SAFE / Microsoft Excel)
 
 ### Transportation Engineering Project:
 
-* Road Geometric Design (AutoCAD / Civil 3D)
+* Geometric Design of a Collector-Distributor Road Project (AutoCAD / Civil 3D / Microsoft Excel)
 
 
 ## 📎 Note
