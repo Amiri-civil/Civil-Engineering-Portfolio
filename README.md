@@ -30,14 +30,14 @@ Detailed reports are provided in Persian, while key information is presented in 
 
 * **Bachelor’s Thesis:**
   Evaluation of Courses Related to Water, Environment, and Sustainable Development in Undergraduate Civil Engineering Programs at Selected Asian Universities.
-  *(Full thesis in Persian)*
+  *(Full thesis in Persian - The English translation is also available among the files)*
 
 * **Conference Paper (14th Civil Engineering Congress – Sharif University):**
   Evaluation of Water, Environmental, and Sustainable Development Courses in the Undergraduate Civil Engineering Curricula of Iranian Universities: A Comparison of the Old and New Curricula.
-  *(Full paper in Persian, available online with Persian title on Civilica)*
+  *(Full paper in Persian, available online with Persian title on Civilica Website - The English translation is also available among the files)*
 
 * **Published Review Paper (Indexed in Google Scholar):**
   Investigating the role of intelligent transportation systems (ITS) with approach of road transportation and the implementation of the ITS system in Iran until the end of 1400.
-  *(First page including abstract in English; full paper in Persian, available online on Google Scholar and civilica)*
+  *(First page including abstract in English; full paper in Persian, available online on Google Scholar and civilica - The English translation is also available among the files)*
 
 
