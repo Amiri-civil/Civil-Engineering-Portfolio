@@ -23,9 +23,8 @@ The work involved preparing the topographic data and network layout, estimating 
 ## Software Used
 - EPANET
 - Autodesk Civil 3D
-- AutoCAD
-- Microsoft Excel
 - Python
+- Microsoft Excel
 
 ## Project Documentation
 All available project materials are organized and categorized in the relevant project folder, including:
