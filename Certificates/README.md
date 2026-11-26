@@ -130,6 +130,11 @@ The study was developed from my undergraduate research on the role of water and 
 - Examination of the integration of water, environmental engineering and  sustainable development concepts into engineering education
 - Identification of curriculum areas relevant to emerging water and environmental challenges
 
+ **Key findings:**
+1. The share of compulsory specialized credits related to water, environment, and sustainable development increased from 9% in the old curriculum to 21% in the revised curriculum.
+2. The revised curriculum introduced courses such as Sustainable Development and Land Use Planning and moved selected electives into the compulsory curriculum.
+3. Further curriculum development and greater emphasis on practical and field-based learning remain important.
+
 **Academic Contribution:** Co-authored research paper accepted, resented and published at the 14th International Congress on Civil Engineering, hosted by Sharif University of Technology.
 
 --------------------------------------------------------------------------------------------------------
