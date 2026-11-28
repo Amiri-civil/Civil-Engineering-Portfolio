@@ -23,6 +23,7 @@ The work involved preparing the topographic data and network layout, estimating 
 ## Software Used
 - EPANET
 - Autodesk Civil 3D
+- AutoCAD
 - Python
 - Microsoft Excel
 
@@ -33,6 +34,6 @@ All available project materials are organized and categorized in the relevant pr
 - AutoCAD drawings and network layout files
 - Excel worksheets, hydraulic calculations, and demand estimation tables
 - Supporting data, design calculations, and analysis outputs
-- English version of the project report
+- Original Persian and English version of the project report
 
 The folder provides access to the project's network development process, hydraulic modeling files, design calculations, and supporting technical documentation for academic and engineering review.
