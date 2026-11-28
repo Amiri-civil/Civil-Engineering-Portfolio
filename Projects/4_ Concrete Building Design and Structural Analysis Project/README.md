@@ -28,6 +28,6 @@ All available project materials are organized and categorized in the relevant pr
 - Design calculations and supporting materials
 - Software-generated drawings and outputs
 - Original project report in Persian
-- English-translated PDF version of the project report
+- Project report summary in English
 
 The folder provides access to the project's design materials, analysis files, and supporting documentation for academic and technical review.
