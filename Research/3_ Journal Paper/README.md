@@ -70,7 +70,8 @@ The analysis covers:
 
 ## 📁 Contents
 
-- Full research article (PDF)
+- Full research article Original Persian (PDF)
+- Full research article English Translated Version (PDF)
 - Supplementary Materials (ZIP)
 
 ## 📚 Citation
