@@ -156,7 +156,9 @@ The research also reflects an academic interest in the relationship between engi
 
 ## 📁 Repository Contents
 
-- **`BSc-Thesis-Water-Environment-Sustainable-Development.pdf`** — Full bachelor's thesis in Persian.
+- Full Bachelor's Thesis (Original Persian)
+- Full Bachelor's Thesis (English Translated Version)
+- BSc Thesis Presentation File (Original Persian and English Translated Version)
 - Supplementary Files (ZIP)
 
 ## 📚 Suggested Citation
