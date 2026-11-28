@@ -58,7 +58,8 @@ The study employs a comparative and analytical approach based on document and cu
 
 ## 📁 Contents
 
-- Full conference paper (PDF)
+- Full conference paper Original Persian (PDF)
+- Full Conference Paper English translated version (PDF)
 - Supplementary Materials (ZIP)
 
 
