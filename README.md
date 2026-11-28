@@ -64,14 +64,14 @@ A comparative study of water, environmental, and sustainable development-related
 
 A comparative study of the coverage of water, environmental engineering, and sustainable development subjects in the old and revised Civil Engineering curricula of Iranian universities.
 
-*(Presented and published at the 14th International Congress on Civil Engineering, Sharif University of Technology. Full paper in Persian; English translation available among the files.)*
+*(Presented and published at the 14th International Congress on Civil Engineering, Sharif University of Technology. Full paper in Persian; English translation available among the files. Available online through Civilica Website.)*
 
 ### Journal Paper
 **Investigating the role of intelligent transportation systems (ITS) with approach of road transportation and the implementation of the ITS system in Iran until the end of 1400**
 
 A review of the role and implementation of Intelligent Transportation Systems in road transportation in Iran.
 
-*(First page, including the abstract, is in English; the full paper is in Persian. Available online through Google Scholar and Civilica.)*
+*(First page, including the abstract, is in English; the full paper is in Persian; English translation available among the files. Available online through Google Scholar and Civilica Website.)*
 
 ## Academic Interests
 
