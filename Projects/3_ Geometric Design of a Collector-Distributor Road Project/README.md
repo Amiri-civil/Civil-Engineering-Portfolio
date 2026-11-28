@@ -36,7 +36,8 @@ All available project materials are organized and categorized in the relevant fo
 - The final group project report in PDF format
 - Software-generated drawings and outputs
 - Supporting documents and related project materials
-- English translations of documents where available
+- Original project report in Persian
+- Project report summary in English
 
 The project folder is structured to provide easy access to the design process, supporting materials, and final outputs.
 
