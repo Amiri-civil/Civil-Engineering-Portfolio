@@ -32,6 +32,6 @@ All available project materials are organized and categorized in the relevant pr
 - Hydrological parameter tables and sensitivity analysis results
 - Computed runoff hydrographs, comparison graphs, and calibration results
 - Supporting calculations and project materials
-- English-translated PDF report documenting the modeling procedure, analyses, and results
+- Original Persian and English-translated PDF report documenting the modeling procedure, analyses, and results
 
 The folder provides access to the available model files, technical calculations, simulation results, and project documentation for academic and technical review.
